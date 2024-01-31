@@ -10,3 +10,5 @@ I merged four monthly data sets of bike share such as 2023-03(March), 2023-04(Ap
 1. Processing Data
 2. Cleaning Data
 3. Analysis/ Visualisation
+
+## This project was developed as a part of academic and is intended for educational purposes.
